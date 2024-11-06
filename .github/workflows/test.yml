@@ -21,8 +21,8 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: q215613905
-            repoName: TVBoxOS
+          - userName: laiwen91020
+            repoName: VCAMPro
             branchName: main
           - userName: takagen99
             repoName: Box
